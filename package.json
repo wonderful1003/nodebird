@@ -26,7 +26,7 @@
     "passport-kakao": "0.0.5",
     "passport-local": "^1.0.0",
     "pm2": "^4.4.0",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "sequelize": "^5.22.3",
     "winston": "^3.3.3"
   }
